@@ -1,4 +1,4 @@
-# Dog Breed Classifier
+# Dog Breed Classifier        
 This work is part of Udacity’s Data Science capstone project. 
 
 ## project overview
